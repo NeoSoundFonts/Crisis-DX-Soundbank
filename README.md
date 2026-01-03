@@ -5,6 +5,6 @@ It was started since Yingchun Soul is doing Aspirin DX Soundbank.
 
 Original Crisis GeneralMIDI is **non-commercial use only**, **can't be redistributed nor be modified**, this version is libre and free-for-commercial use and modify.
 
-Main download link: https://musical-artifacts.com/artifacts/7386
+Download link: https://github.com/NeoSoundFonts/Crisis-DX-Soundbank/releases
 
-Mirror: https://cloud.wohlnet.ru/index.php/s/jFkr2Ng7WkseH7q
+Source File: https://github.com/NeoSoundFonts/Crisis-DX-source-files
